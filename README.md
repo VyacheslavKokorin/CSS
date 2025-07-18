@@ -32,6 +32,7 @@ img {
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
+	<link href="style.css" rel="stylesheet" type="text/css" />
 	<title>Web Page Structure</title>
 </head>
 <body></body>
