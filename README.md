@@ -35,7 +35,8 @@ img {
 	<link href="style.css" rel="stylesheet" type="text/css" />
 	<title>Web Page Structure</title>
 </head>
-<body></body>
+<body>
+</body>
 </html>
 ```
 # Заметки
