@@ -25,7 +25,18 @@ img {
 	max-width: 100%;
 }
 ```
-
+# HTML
+Базовая структура HTML-страницы
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Web Page Structure</title>
+</head>
+<body></body>
+</html>
+```
 # Заметки
 Мета-тег для блока head, которые приказывает браузеру отображать контент страницы по ширине экрана устройства.
 ```CCS
