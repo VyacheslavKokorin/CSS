@@ -150,12 +150,12 @@ img {
 ### Тег video
 Для отображения видео.
 ```HTML
-<video></video>
+<video src="" width="640" height="480" controls poster=""></video>
 ```
 ### Тег audio
 Для отображения видео.
 ```HTML
-<audio></audio>
+<audio src="" controls></audio>
 ```
 # Заметки
 Мета-тег для блока head, которые приказывает браузеру отображать контент страницы по ширине экрана устройства.
